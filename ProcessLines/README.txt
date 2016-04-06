@@ -3,7 +3,7 @@ Process-Lines Version 1.0 30/03/2016
 
 General Information
 -------------------
-This maven project auto downloads 3rd party dependencies compiles business logic 
+This maven project auto downloads 3rd party dependencies compiles business logic  
 and tests and then runs automated tests.
 
 After successful completion of the tests maven creates a executable jar file in the target folder.(ProcessLines-1.0.jar)
